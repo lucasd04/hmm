@@ -1,0 +1,8 @@
+.map-container {
+    height: 300px;
+}
+
+.meer-info {
+    cursor: pointer;
+    text-decoration-line: underline;
+}
